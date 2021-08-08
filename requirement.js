@@ -36,5 +36,12 @@ TO get a list of publication based on a book
 
 
 
+POST REQUEST
+1.Add new book
+2.Add new publication
+3.Add new author
+
+
+
 */
 
