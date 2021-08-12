@@ -42,6 +42,15 @@ POST REQUEST
 3.Add new author
 
 
+// PUT
+Update book details if author is changed
+
+//DELETE
+1.Delete a book
+2.Delete author from book
+3.Delete author from book and related book from author
+
+
 
 */
 
